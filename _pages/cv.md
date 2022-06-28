@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Maestría en Economía, Universidad de San Andrés (2022) (en curso)
+* Licenciatura en Economía, Universidad de Buenos Aires (2015-2021)
+  * Promedio: 8,70/10.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 21 - Feb 22: Fraud Strategy Analyst en <strong> Ualá </strong>
+  * Diseño de estrategias de prevención y detección de fraude.
+  * Construcción de indicadores, métricas, alertas y dashboards.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov 20 - Jun 21: Analyst en <strong> PYMNTS </strong>
+  * Análisis de base de datos de encuentas relacionadas a los mercados de pagos y e-commerce.
+  * Realización de presentaciones para clientes.
 
-Publications
+* Dic 19 - Nov 20: Asistente de Base de Datos en <strong> ABECEB </strong>
+  * Búsqueda de datos económicos.
+  * Confección de informes periódicos sobre coyuntura económica.
+ 
+* Abr 17 - Jun 18: Asistente de Seguimiento de Proyectos en <strong> UBATEC S.A. </strong>
+  * Asistencia a investigadores (presencial, telefónica y online).
+  * Seguimiento de presupuestos y carga de datos.
+
+**Idiomas**
+
+* Inglés: fluido (leído, escrito y hablado).
+* Español: nativo.
+
+Habilidades informáticas
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Nivel avanzado en el uso de paquete Office (Excel, Word, PowerPoint) y LaTeX.
+* Nivel intermedio en Stata, R, Splunk y SQL. 
+  * Experiencia en análisis de bases de datos.
+* Conocimientos básicos de Matlab y Python.
+
