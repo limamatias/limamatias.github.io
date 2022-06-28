@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Maestría en Economía, Universidad de San Andrés (2022) (en curso)
 * Licenciatura en Economía, Universidad de Buenos Aires (2015-2021)
   * Promedio: 8,70/10.
 
-Work experience
+Experiencia laboral
 ======
 * Jun 21 - Feb 22: Fraud Strategy Analyst en <strong> Ualá </strong>
   * Diseño de estrategias de prevención y detección de fraude.
