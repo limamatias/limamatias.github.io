@@ -17,19 +17,19 @@ Educación
 
 Experiencia laboral
 ======
-* Jun 21 - Feb 22: Fraud Strategy Analyst en <strong> Ualá </strong>
+* Fraud Strategy Analyst en <strong> Ualá </strong> (Jun 21 - Feb 22)
   * Diseño de estrategias de prevención y detección de fraude.
   * Construcción de indicadores, métricas, alertas y dashboards.
 
-* Nov 20 - Jun 21: Analyst en <strong> PYMNTS </strong>
+* Analyst en <strong> PYMNTS </strong> (Nov 20 - Jun 21)
   * Análisis de base de datos de encuentas relacionadas a los mercados de pagos y e-commerce.
   * Realización de presentaciones para clientes.
 
-* Dic 19 - Nov 20: Asistente de Base de Datos en <strong> ABECEB </strong>
+* Asistente de Base de Datos en <strong> ABECEB </strong> (Dic 19 - Nov 20)
   * Búsqueda de datos económicos.
   * Confección de informes periódicos sobre coyuntura económica.
  
-* Abr 17 - Jun 18: Asistente de Seguimiento de Proyectos en <strong> UBATEC S.A. </strong>
+* Asistente de Seguimiento de Proyectos en <strong> UBATEC S.A. </strong> (Abr 17 - Jun 18)
   * Asistencia a investigadores (presencial, telefónica y online).
   * Seguimiento de presupuestos y carga de datos.
 
