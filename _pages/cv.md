@@ -33,13 +33,15 @@ Experiencia laboral
   * Asistencia a investigadores (presencial, telefónica y online).
   * Seguimiento de presupuestos y carga de datos.
 
-**Idiomas**
+Idiomas
+======
 
 * Inglés: fluido (leído, escrito y hablado).
 * Español: nativo.
 
 Habilidades informáticas
 ======
+
 * Nivel avanzado en el uso de paquete Office (Excel, Word, PowerPoint) y LaTeX.
 * Nivel intermedio en Stata, R, Splunk y SQL. 
   * Experiencia en análisis de bases de datos.
